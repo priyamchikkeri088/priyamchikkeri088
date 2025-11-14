@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Priya M Chikkeri
 A passionate developer from India💻 <br>🌱I'm currently learning a Python and AI and also Preparing for GATE<br> 👩🏻‍💻I'm currently working on project Plant health detection using DL
 
 
